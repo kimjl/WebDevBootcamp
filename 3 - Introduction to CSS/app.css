@@ -1,0 +1,25 @@
+h1 {
+	color: #FF8000;
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 8px dashed purple;
+}
+
+li {
+	color: rgb(140, 75, 201);
+}
+
+h4 {
+	color: rgba(120, 195, 80, 0.8);
+	background: rgb(255, 90, 87);
+}
+
+body {
+	background: pink;
+	/*background: url('https://imgprod65.hobbylobby.com/3/c1/f8/3c1f8f79826e7b349d7e7ae09f86682eaf7bac2a/700Wx700H-617126-1018.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
+
